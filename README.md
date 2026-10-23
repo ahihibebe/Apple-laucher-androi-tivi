@@ -1,4 +1,4 @@
-# VietLauncher – Launcher Android TV tiếng Việt
+# VietLauncher – Launcher Android TV tiếng Việt,apple tv launcher
 
 Cách lấy file APK (không cần cài Android Studio):
 1. Tạo repo mới trên GitHub, tải toàn bộ thư mục này lên (giữ nguyên thư mục `.github`).
