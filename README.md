@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform Android" />
+  <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Design-Material%203%20%2B%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Design" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
+</p>
+
+---
 # VietLauncher – Launcher Android TV tiếng Việt,apple tv launcher
 
 Cách lấy file APK (không cần cài Android Studio):
